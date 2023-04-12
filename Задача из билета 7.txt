@@ -1,0 +1,6 @@
+try { 
+//код в котором может быть исключение
+} catch (NullPointerException | NoSuchElementException e) {
+// код обработки исключений 
+} catch (Exception e) {
+//другое исключение} 
